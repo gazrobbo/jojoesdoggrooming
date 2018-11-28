@@ -431,5 +431,12 @@ footer {
 padding: 10px 110px 50px 110px
 
   }
+  .map--container,
+.hours--container,
+.contactform {
+  
+  min-width: 310px;
+ 
+}
 }
 
