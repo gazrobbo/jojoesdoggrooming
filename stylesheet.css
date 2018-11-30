@@ -63,6 +63,18 @@ body {
   bottom: 0px;
 }
 
+
+
+#header--jojoes-info-text {
+position: absolute; 
+ top:2px;
+ left: 50vw;
+  z-index: 999;
+  font-size: 0.9rem;
+  text-align: center;
+  transform: translateX(-50%)
+}
+
 .main--pretitle {
   font-size: 1.3rem;
   line-height: 300%;
