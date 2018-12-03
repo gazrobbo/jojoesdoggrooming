@@ -219,7 +219,7 @@ position: absolute;
 .page-container {
   padding-top: 100px;
   padding-bottom: 100px;
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 
 .padding20 {
