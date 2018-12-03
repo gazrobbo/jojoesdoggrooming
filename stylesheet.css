@@ -72,7 +72,8 @@ position: absolute;
   z-index: 999;
   font-size: 0.9rem;
   text-align: center;
-  transform: translateX(-50%)
+  transform: translateX(-50%);
+  line-height: 1.5;
 }
 
 .main--pretitle {
@@ -391,7 +392,7 @@ position: absolute;
 .contactform {
 
   grid-area: form;
-
+margin-top: 100px;
   padding: 10px 2px 2px 20px;
 
 }
@@ -460,5 +461,8 @@ footer {
 
     min-width: 310px;
 
+  }
+  .contactform {
+margin-top: 0px;
   }
 }
