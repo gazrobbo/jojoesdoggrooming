@@ -190,7 +190,7 @@ position: absolute;
   }
 
   #page1--title-med {
-    font-size: 11vw;
+    font-size: 10.3vw;
   }
 
   #page1--title-large {
@@ -241,7 +241,7 @@ position: absolute;
   width: 100vw;
   position: fixed;
   bottom: 0px;
-  z-index: 1;
+  z-index: 14;
   opacity: 0.8;
 }
 
@@ -252,7 +252,7 @@ position: absolute;
 
 .home--phone-position {
   position: fixed;
-
+z-index: 15;
   left: 23px;
   bottom: 23px;
 }
