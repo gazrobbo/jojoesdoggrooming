@@ -271,7 +271,7 @@ body {
 }
 
 .meet-team--padding {
-  padding: 10px 10px 0px 10px;
+  padding: 5px 5px 0px 5px;
 }
 
 .card .team-text {
@@ -307,6 +307,17 @@ body {
     height: 300px;
     width: 300px;
   }
+}
+
+/* why visit page */
+
+.why-visit-card {
+  padding: 20px;
+
+}
+
+.why-visit-img {
+width: 30vw;
 }
 
 /* CONTACT PAGE */
