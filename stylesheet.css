@@ -66,9 +66,9 @@ body {
 
 
 #header--jojoes-info-text {
-position: absolute; 
- top:2px;
- left: 50vw;
+  position: absolute;
+  top: 2px;
+  left: 50vw;
   z-index: 999;
   font-size: 0.9rem;
   text-align: center;
@@ -252,7 +252,7 @@ position: absolute;
 
 .home--phone-position {
   position: fixed;
-z-index: 15;
+  z-index: 15;
   left: 23px;
   bottom: 23px;
 }
@@ -392,7 +392,7 @@ z-index: 15;
 .contactform {
 
   grid-area: form;
-margin-top: 100px;
+  margin-top: 100px;
   padding: 10px 2px 2px 20px;
 
 }
@@ -462,7 +462,8 @@ footer {
     min-width: 310px;
 
   }
+
   .contactform {
-margin-top: 0px;
+    margin-top: 0px;
   }
 }
