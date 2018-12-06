@@ -220,7 +220,14 @@ body {
 
 /* front page end */
 
-
+.pattern-background {
+  background-image: url(https://res.cloudinary.com/fump/image/upload/v1544128821/dog-pattern-15.svg);
+ 
+}
+.pattern-background-light {
+  background-image: url(https://res.cloudinary.com/fump/image/upload/v1544129097/dog-pattern-8.svg);
+ 
+}
 
 .page-container {
   padding-top: 100px;
