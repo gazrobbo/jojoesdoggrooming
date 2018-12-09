@@ -44,7 +44,7 @@ body {
 
   position: absolute;
   box-shadow: 2px 2px 3px var(--color-shad);
-  background-image:  linear-gradient(to bottom left, #ffffff85,#ffffff00,#ffffff00);
+  background-image:  linear-gradient(to bottom left, #ffffffa9,#ffffff00,#ffffff00);
 }
 
 
@@ -58,7 +58,7 @@ body {
   min-height: 30vh;
   max-height: 80vh;
   min-width: 60vw;
-  background-image: linear-gradient(to bottom left, #ffffff44,#ffffff00,#ffffff00), radial-gradient(var(--color-med), var(--color-dark));
+  background-image: linear-gradient(to bottom left, #ffffff5b,#ffffff00,#ffffff00), radial-gradient(var(--color-med), var(--color-dark));
   box-shadow: 3px 3px 10px var(--color-shad);
 }
 
@@ -222,7 +222,7 @@ body {
 /* front page end */
 
 .pattern-background {
-  background-image: url(https://res.cloudinary.com/fump/image/upload/v1544128821/dog-pattern-15.svg), linear-gradient(to bottom left, #ffffff85,#ffffff00,#ffffff00);
+  background-image: url(https://res.cloudinary.com/fump/image/upload/v1544128821/dog-pattern-15.svg), linear-gradient(to bottom left, #ffffffaf,#ffffff00,#ffffff00);
 }
 .pattern-background-light {
   background-image: url(https://res.cloudinary.com/fump/image/upload/v1544129097/dog-pattern-8.svg), linear-gradient(to bottom left, #ffffff85,#ffffff00,#ffffff00);
