@@ -273,6 +273,9 @@ body {
 .hidden {
   display: none;
 }
+#the-team h2 {
+  font-size: 24px;
+}
 
 .full-height {
   height: 100%;
@@ -285,6 +288,10 @@ body {
 
 .meet-team--padding {
   padding: 5px 5px 0px 5px;
+  max-width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 .card .team-text {
@@ -329,11 +336,28 @@ body {
 
 }
 
-.why-visit-img {
-width: 30vw;
-max-width: 300px;
-/* display: inline; */
+#why-visit img {
+  max-width: 250px;
+  max-height: 200px;
 }
+#why-visit h4 {
+  
+}
+
+.left-image {
+  clear: both;
+  float: left;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.right-image {
+  clear: both;
+  float: right;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
 
 /* CONTACT PAGE */
 
