@@ -530,3 +530,29 @@ footer {
 h1, h2, h3, h4 {
   font-weight: bold;
 }
+
+
+
+
+
+
+
+
+/* gallery */
+
+#gallery-container {
+  grid-area: main;
+  
+}
+
+.gallery-card {
+  padding: 10px;
+}
+
+
+#gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  grid-gap: 30px;
+  padding: 20px;
+}
