@@ -223,9 +223,11 @@ body {
 
 .pattern-background {
   background-image: url(https://res.cloudinary.com/fump/image/upload/v1544128821/dog-pattern-15.svg), linear-gradient(to bottom left, #ffffffaf,#ffffff00,#ffffff00);
+  background-attachment: fixed;
 }
 .pattern-background-light {
   background-image: url(https://res.cloudinary.com/fump/image/upload/v1544129097/dog-pattern-8.svg), linear-gradient(to bottom left, #ffffff85,#ffffff00,#ffffff00);
+  background-attachment: fixed;
  
 }
 
