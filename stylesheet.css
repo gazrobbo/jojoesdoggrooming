@@ -146,6 +146,14 @@ body {
   top: -500px;
 }
 
+.home-button {
+  
+  grid-area: text;
+  width: 120px;
+  place-self: center;
+  align-self: flex-end; 
+}
+
 
 /*media*/
 
